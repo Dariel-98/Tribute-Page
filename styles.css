@@ -1,0 +1,56 @@
+body{
+    font-family: Helvetica;
+  }
+  .container{
+    background-color: lightgray;
+    border-radius: 3px;
+  }
+  header{
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+  }
+  #img-div{
+    width: 97%;
+    background-color: white;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    border: none;
+  }
+  #image{
+    display: block;
+    height: auto;
+    width: 400vw;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  #img-caption{
+    text-align: center;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 0;
+  }
+  #heading{
+    text-align: center;
+  }
+  .bold{
+    font-weight: 800;
+  }
+  .list{
+    text-align: left;
+    padding: 20px 25%;
+    min-width: 200px;
+  }
+  #quote{
+   font-style: italic;
+   text-align: center;
+  }
+  .author{
+    display: block;
+    font-style: italic;
+  }
+  
+  #tribute-info{
+    text-align: center;
+    font-weight: 800;
+  }
